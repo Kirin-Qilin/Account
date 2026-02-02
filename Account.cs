@@ -15,8 +15,9 @@ public class Account
     {
         get{ return ownerAcc; }
     }
-    
-//idrk kbruh
+
+    //idrk kbruh
+//idrk kbruh2
     public Account(float balance, string ownerAcc)
     {
         this.balance = balance;
