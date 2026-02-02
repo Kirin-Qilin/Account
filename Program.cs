@@ -2,7 +2,7 @@
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Principal;
 public class Program
-{
+{//simualted cage frmo teamate o github
             public static void doIt(Account a, int total)
     {
         a.Withdraw(50);
