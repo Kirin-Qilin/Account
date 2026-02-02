@@ -1,0 +1,14 @@
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.AssemblyInfoInputs.cache
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.AssemblyInfo.cs
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.csproj.CoreCompileInputs.cache
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\bin\Debug\net9.0\Account Class.exe
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\bin\Debug\net9.0\Account Class.deps.json
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\bin\Debug\net9.0\Account Class.runtimeconfig.json
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\bin\Debug\net9.0\Account Class.dll
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\bin\Debug\net9.0\Account Class.pdb
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.dll
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\refint\Account Class.dll
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.pdb
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\Account Class.genruntimeconfig.cache
+c:\Users\mm1106187\Desktop\C# Project Folder\Account Class\obj\Debug\net9.0\ref\Account Class.dll
