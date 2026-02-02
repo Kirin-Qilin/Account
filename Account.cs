@@ -26,7 +26,7 @@ public class Account
     public void Show()
     {
         Console.WriteLine($"Balance: {balance}  Account Name:  {ownerAcc}");
-        Console.WriteLine("yoasdfasfsdfasdfasdf i gott=a change more ig asdfooo");
+        Console.WriteLine("sdfgge more ig asdfooo");
         Console.WriteLine("another line added ig");
     }
     public float Deposit(float amount)
